@@ -3,7 +3,7 @@
 - Applicable to Circle, Square, Triangle, Octagon shapes
 
 ## Command
-To segment traffic sign image:
+To segment traffic sign image:<br>
 T6_Team2_traffic_sign_segmentation.py -i [image_path]
 
 ## Release File
